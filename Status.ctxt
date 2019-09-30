@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Status()
+comment1.params=status
+comment1.target=Status(int)
+comment2.params=status
+comment2.target=void\ setStatus(int)
+comment3.params=
+comment3.target=int\ getStatus()
+numComments=4
